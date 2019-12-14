@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Nicolas's home page
 
-You can use the [editor on GitHub](https://github.com/nperon/nperon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Online projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+**1. Overkill Todo** 
+Minimal Todo List app developed with Angular, Angular Material and the NgRx library.
+..* [Demo](https://nperon.github.io/overkill-todo/) 
+..* [Source Code](https://github.com/nperon/overkill-todo)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
