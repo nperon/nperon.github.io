@@ -3,6 +3,7 @@
 ### Online projects
 
 1. **Overkill Todo:** Minimal Todo List app. Technologies: Angular 8, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. [Demo](https://nperon.github.io/overkill-todo/) / [Source Code](https://github.com/nperon/overkill-todo)
+
 . blabla
 
 
