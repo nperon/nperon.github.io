@@ -2,7 +2,9 @@
 
 ### Online projects
 
-**1. Overkill Todo** [Demo](https://nperon.github.io/overkill-todo/) [Source Code](https://github.com/nperon/overkill-todo)
+**1. Overkill Todo - ** 
+[Demo](https://nperon.github.io/overkill-todo/) ** - ** 
+[Source Code](https://github.com/nperon/overkill-todo)
 
 Minimal Todo List app developed with Angular, Angular Material and the NgRx library.
 
