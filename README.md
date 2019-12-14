@@ -2,24 +2,16 @@
 
 ### Online projects
 
-1. Overkill Todo / [Demo](https://nperon.github.io/overkill-todo/) / [Source Code](https://github.com/nperon/overkill-todo)
+1. **Overkill Todo:** Minimal Todo List app. Technologies: Angular 8, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. [Demo](https://nperon.github.io/overkill-todo/) / [Source Code](https://github.com/nperon/overkill-todo)
 
-Minimal Todo List app developed with Angular, Angular Material and the NgRx library.
 
-```markdown
-Syntax highlighted code block
+2. **Radiowizard:** Web radio stations hub application: currently being developed. [Demo](https://nperon.github.io/radiowizard/) / [Source Code](https://github.com/nperon/radiowizard)
 
-# Header 1
-## Header 2
-### Header 3
+### Social media pages
 
-- Bulleted
-- List
+[Linkedin page](https://www.linkedin.com/in/nicolas-peron-52b250140/)
 
-1. Numbered
-2. List
+[Github page](https://github.com/nperon)
 
-**Bold** and _Italic_ and `Code` text
+[Blog](https://nperon.netlify.com)
 
-[Link](url) and ![Image](src)
-```
