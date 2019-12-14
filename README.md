@@ -2,12 +2,10 @@
 
 ### Online projects
 
-1. **Overkill Todo:** Minimal Todo List app. Technologies: Angular 8, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. [Demo](https://nperon.github.io/overkill-todo/) / [Source Code](https://github.com/nperon/overkill-todo)
+1. **Overkill Todo:** Minimal Todo List app. / [Demo](https://nperon.github.io/overkill-todo/) / [Source Code](https://github.com/nperon/overkill-todo). Technologies: Angular 8, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. 
 
-. blabla
-
-
-2. **Radiowizard:** Web radio stations hub application: currently being developed. [Demo](https://nperon.github.io/radiowizard/) / [Source Code](https://github.com/nperon/radiowizard)
+2. **Radiowizard:** / [Demo](https://nperon.github.io/radiowizard/) / [Source Code](https://github.com/nperon/radiowizard) /
+Web radio stations hub application: currently being developed. 
 
 ### Social media pages
 
