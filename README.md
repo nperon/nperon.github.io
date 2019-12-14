@@ -4,6 +4,7 @@
 
 **1. Overkill Todo** 
 Minimal Todo List app developed with Angular, Angular Material and the NgRx library.
+
 ..* [Demo](https://nperon.github.io/overkill-todo/) 
 ..* [Source Code](https://github.com/nperon/overkill-todo)
 
