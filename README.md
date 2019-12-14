@@ -2,11 +2,12 @@
 
 ### Online projects
 
-**1. Overkill Todo** 
+**1. Overkill Todo** [Demo](https://nperon.github.io/overkill-todo/) [Source Code](https://github.com/nperon/overkill-todo)
 
 Minimal Todo List app developed with Angular, Angular Material and the NgRx library.
 
 ..* [Demo](https://nperon.github.io/overkill-todo/) 
+
 ..* [Source Code](https://github.com/nperon/overkill-todo)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
