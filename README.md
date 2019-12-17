@@ -7,5 +7,5 @@
 
 ### Social media pages
 
-[Linkedin page](https://www.linkedin.com/in/nicolas-peron-52b250140/) / [Github](https://github.com/nperon) / [Blog](https://nperon.netlify.com)
+[Linkedin](https://www.linkedin.com/in/nicolas-peron-52b250140/) / [Github](https://github.com/nperon) / [Blog](https://nperon.netlify.com)
 
