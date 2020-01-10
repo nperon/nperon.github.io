@@ -4,7 +4,7 @@
 
 **Radiowizard (in progress): Web radio-stations Hub** &#150; [Demo](https://nperon.github.io/radiowizard/) &#150; [Source Code](https://github.com/nperon/radiowizard) &#150; Back-end technologies: Node, Redux, Socket.io. Front-end technologies: React, Redux, Socket.io-client, Sass. 
 
-**Idioms (in progress): Social network app to exchange on idiomatic expressions** &#150; [Demo](http://idioms.epizy.com) &#150; [Source Code](https://github.com/nperon/idioms) &#150; Technologies: MySQL, PHP 7, Bootstrap 4. 
+**Idioms (in progress): App to share idiomatic expressions and their meanings with other users** &#150; [Demo](http://idioms.epizy.com) &#150; [Source Code](https://github.com/nperon/idioms) &#150; Technologies: MySQL, PHP 7, Bootstrap 4. 
 
 ### Social media pages** 
 
