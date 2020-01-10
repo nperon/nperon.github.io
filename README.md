@@ -6,7 +6,7 @@
 
 **Idioms (in progress): App to share idiomatic expressions and their meanings with other users** &#150; [Demo](http://idioms.epizy.com) &#150; [Source Code](https://github.com/nperon/idioms) &#150; Technologies: MySQL, PHP 7, Bootstrap 4. 
 
-### Social media pages** 
+### Social media pages
 
 [Linkedin](https://www.linkedin.com/in/nicolas-peron-52b250140/) &#150; [Github](https://github.com/nperon) &#150; [Blog](https://nperon.netlify.com)
 
